@@ -40,8 +40,8 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "xmr.crypto-pool.fr:443",
-"wallet_address" : "4831JeEMmBy4LQ2amTcaQaf1LVL8ao6CU4VzuLBSRrNYBydkGwtkKTeMPHeMx5U6E919Qo6aQ5hGaDC1HeEmxGnDBkf5kou+30000",
+"pool_address" : "xmr.crypto-pool.fr:8888",
+"wallet_address" : "4831JeEMmBy4LQ2amTcaQaf1LVL8ao6CU4VzuLBSRrNYBydkGwtkKTeMPHeMx5U6E919Qo6aQ5hGaDC1HeEmxGnDBkf5kou",
 "pool_password" : "",
 
 /*
